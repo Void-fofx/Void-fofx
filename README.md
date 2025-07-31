@@ -22,7 +22,7 @@ Full-stack developer. Builder of fast, resilient tools.
 
 > uptime
 
-Coding professionally since: 2022
+Coding professionally since: 2023-01-30
 Current location: United States  
 Status: Available for collaboration or consulting
 
