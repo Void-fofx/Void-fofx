@@ -1,7 +1,10 @@
 ```
 > whoami █
-
-Full-stack developer. Builder of fast, resilient tools. Obsessed with developer experience.
+  ___                  _  _          _   _               
+ | _ \___ ___ __ ___  | || |___ __ _| |_| |_  ___ _ _ ___
+ |   / -_) -_) _/ -_) | __ / -_) _` |  _| ' \/ -_) '_(_-<
+ |_|_\___\___\__\___| |_||_\___\__,_|\__|_||_\___|_| /__/
+Full-stack developer. Builder of fast, resilient tools.
 
 > ls tech-stack
 
